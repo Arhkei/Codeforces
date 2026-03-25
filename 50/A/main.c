@@ -15,4 +15,4 @@ int main(void) {
     return 0;    
 }
 
-//It looks like it can be solved with just dominoes = (height*width)/2 !
+// It looks like it can be solved with just dominoes = (height*width)/2 !
